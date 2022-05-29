@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/n-ra-hw.-9_router_crud/static/css/main.960eaa18.chunk.css",
+    "main.js": "/n-ra-hw.-9_router_crud/static/js/main.98421bb0.chunk.js",
+    "main.js.map": "/n-ra-hw.-9_router_crud/static/js/main.98421bb0.chunk.js.map",
+    "runtime-main.js": "/n-ra-hw.-9_router_crud/static/js/runtime-main.42352e59.js",
+    "runtime-main.js.map": "/n-ra-hw.-9_router_crud/static/js/runtime-main.42352e59.js.map",
+    "static/js/2.f1b6b448.chunk.js": "/n-ra-hw.-9_router_crud/static/js/2.f1b6b448.chunk.js",
+    "static/js/2.f1b6b448.chunk.js.map": "/n-ra-hw.-9_router_crud/static/js/2.f1b6b448.chunk.js.map",
+    "static/js/3.989a96b2.chunk.js": "/n-ra-hw.-9_router_crud/static/js/3.989a96b2.chunk.js",
+    "static/js/3.989a96b2.chunk.js.map": "/n-ra-hw.-9_router_crud/static/js/3.989a96b2.chunk.js.map",
+    "index.html": "/n-ra-hw.-9_router_crud/index.html",
+    "static/css/main.960eaa18.chunk.css.map": "/n-ra-hw.-9_router_crud/static/css/main.960eaa18.chunk.css.map",
+    "static/js/2.f1b6b448.chunk.js.LICENSE.txt": "/n-ra-hw.-9_router_crud/static/js/2.f1b6b448.chunk.js.LICENSE.txt",
+    "static/media/avatar.cf4d026d.jpg": "/n-ra-hw.-9_router_crud/static/media/avatar.cf4d026d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42352e59.js",
+    "static/js/2.f1b6b448.chunk.js",
+    "static/css/main.960eaa18.chunk.css",
+    "static/js/main.98421bb0.chunk.js"
+  ]
+}
